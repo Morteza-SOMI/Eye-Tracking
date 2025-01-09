@@ -17,3 +17,9 @@ Installation
 ```bash
 pip install opencv-python cvzone
 
+Usage
+Run the script:
+
+bash
+Copy code
+python eye_tracking.py
