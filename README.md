@@ -17,6 +17,9 @@ Installation
 ```bash
 pip install opencv-python cvzone
 
+```bash
+
+
 Usage
 Run the script:
 
